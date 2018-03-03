@@ -18,8 +18,8 @@ struct PlayingCard : CustomStringConvertible
     enum Suit:String, CustomStringConvertible {
         case spades = "♠️"
         case hearts = "💚"
-        case dimonds = "🔷"
         case clubs = "♣️"
+        case dimonds = "♦️"
         
         static var all = [Suit.spades,.hearts,.dimonds,.clubs]
         

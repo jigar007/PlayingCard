@@ -60,9 +60,9 @@
 		25BF3F7B2046AD270087E8BC /* PlayingCard */ = {
 			isa = PBXGroup;
 			children = (
-				25BF3F922046CA970087E8BC /* PlayingCardView.swift */,
 				25BF3F7C2046AD270087E8BC /* AppDelegate.swift */,
 				25BF3F7E2046AD270087E8BC /* ViewController.swift */,
+				25BF3F922046CA970087E8BC /* PlayingCardView.swift */,
 				25BF3F8E2046B1ED0087E8BC /* PlayingCard.swift */,
 				25BF3F902046BFE60087E8BC /* PlayingCardDeck.swift */,
 				25BF3F802046AD270087E8BC /* Main.storyboard */,
